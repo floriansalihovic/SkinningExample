@@ -1,0 +1,7 @@
+@namespace fs 'http://www.icodeapps.net';
+
+fs|Component
+{
+  backgroundImage :Embed('/assets/ff.gif');
+  skinClass       :ClassReference('fs.skins.Skin');
+}
